@@ -1,0 +1,6 @@
+D:\C#程序设计\CSharp基础复习\MyClass\bin\Debug\MyClass.dll
+D:\C#程序设计\CSharp基础复习\MyClass\bin\Debug\MyClass.pdb
+D:\C#程序设计\CSharp基础复习\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+D:\C#程序设计\CSharp基础复习\MyClass\obj\Debug\MyClass.dll
+D:\C#程序设计\CSharp基础复习\MyClass\obj\Debug\MyClass.pdb
+D:\C#程序设计\CSharp基础复习\MyClass\obj\Debug\MyClass.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\C#程序设计\CSharp基础复习\7-静态类和静态成员\bin\Debug\7-静态类和静态成员.exe.config
+D:\C#程序设计\CSharp基础复习\7-静态类和静态成员\bin\Debug\7-静态类和静态成员.exe
+D:\C#程序设计\CSharp基础复习\7-静态类和静态成员\bin\Debug\7-静态类和静态成员.pdb
+D:\C#程序设计\CSharp基础复习\7-静态类和静态成员\obj\Debug\7-静态类和静态成员.csproj.CoreCompileInputs.cache
+D:\C#程序设计\CSharp基础复习\7-静态类和静态成员\obj\Debug\7-静态类和静态成员.exe
+D:\C#程序设计\CSharp基础复习\7-静态类和静态成员\obj\Debug\7-静态类和静态成员.pdb
+D:\C#程序设计\CSharp基础复习\7-静态类和静态成员\obj\Debug\7-静态类和静态成员.csprojAssemblyReference.cache

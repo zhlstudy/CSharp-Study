@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<style type="text/css">
+/*------------------------------------------------------------------ 过渡效果---------------------------------------------------------------------------- */
+			.box1{
+				height: 271px;
+				width: 132px;
+				margin: 0 auto;
+				background-image: url('img/03.sport/sport.png');
+				background-position:0 0 ;
+				transition: 0.3s steps(3);
+			}
+			
+			.box1:hover{
+				background-position: -396px 0;
+			}
+			
+/*------------------------------------------------------------------------- 动画效果 1----------------------------------------------------------------------- */
+			.box2{
+				height: 256px;
+				width: 76.6666px;
+				margin: 0 auto;
+				background-image: url('img/03.sport/OIP-C.jpg');
+				animation: run 1s steps(6) infinite;/*infinite 无限循环*/
+			}
+			/*----- 创建关键帧------ */
+			@keyframes run{
+				from{
+					background-position:0 0;
+				}
+				to{
+					background-position:-466px 0;
+				}
+			}
+/*------------------------------------------------------------------------- 动画效果 2----------------------------------------------------------------------- */
+            .outer{
+				height: 500px;
+				border-bottom: 10px black solid;
+				margin: 50px auto;
+				overflow:hidden ;
+			} 
+			.outer div{
+				width: 100px;
+				height: 100px;
+				float: left;
+				border-radius: 50%;
+				background-color: #FF0000;
+				
+				/*                    停在完成后  */
+				/* animation: ball 1s forwards ease-in; */
+				
+				/*                  匀速运动 无限执行   来回执行 */
+				animation: ball .5s  linear infinite alternate;
+			}
+			div.bx2{
+				background-color: aqua;
+				animation-delay: .1s;
+			}
+			div.bx3{
+				background-color: palevioletred;
+				animation-delay: .2s;
+			}
+			div.bx4{
+				background-color: blueviolet;
+				animation-delay: .3s;
+			}
+			div.bx5{
+				background-color: blue;
+				animation-delay: .4s;
+			}
+			div.bx6{
+				background-color: brown;
+				animation-delay: .5s;
+			}
+			div.bx7{
+				background-color: darkgreen;
+				animation-delay: .6s;
+			}
+			div.bx8{
+				background-color: gold;
+				animation-delay: .7s;
+			}
+			div.bx9{
+				background-color: salmon;
+				animation-delay: .8s;
+			}
+			/* 创建小球落下动画 */
+			@keyframes ball{
+				from{
+					margin-top: 0;
+				}
+				to{
+					margin-top: 400px;
+				}
+			}
+		</style>
+
+	</head>
+	<body>
+<!-- ------------------------------------ 过渡效果  -------------------------------------->
+		<div class="box1">
+			
+		</div>
+<!-- ------------------------------------动画效果 1-------------------------------------->
+		<div class="box2">
+			
+		</div>
+<!-- ------------------------------------动画效果 2-------------------------------------->		
+		<div class="outer">
+			<div class="bx1"></div>
+			<div class="bx2"></div>
+			<div class="bx3"></div>
+			<div class="bx4"></div>
+			<div class="bx5"></div>
+			<div class="bx6"></div>
+			<div class="bx7"></div>
+			<div class="bx8"></div>
+			<div class="bx9"></div>
+		</div>
+	</body>
+</html>

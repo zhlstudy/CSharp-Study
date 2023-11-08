@@ -1,0 +1,7 @@
+D:\C#程序设计\CSharp基础复习\6_接口及实列程序\bin\Debug\6_接口及实列程序.exe.config
+D:\C#程序设计\CSharp基础复习\6_接口及实列程序\bin\Debug\6_接口及实列程序.exe
+D:\C#程序设计\CSharp基础复习\6_接口及实列程序\bin\Debug\6_接口及实列程序.pdb
+D:\C#程序设计\CSharp基础复习\6_接口及实列程序\obj\Debug\6_接口及实列程序.csprojAssemblyReference.cache
+D:\C#程序设计\CSharp基础复习\6_接口及实列程序\obj\Debug\6_接口及实列程序.csproj.CoreCompileInputs.cache
+D:\C#程序设计\CSharp基础复习\6_接口及实列程序\obj\Debug\6_接口及实列程序.exe
+D:\C#程序设计\CSharp基础复习\6_接口及实列程序\obj\Debug\6_接口及实列程序.pdb

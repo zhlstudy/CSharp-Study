@@ -1,0 +1,7 @@
+D:\C#程序设计\CSharp基础复习\10-LIst泛型集合应用\bin\Debug\10-LIst泛型集合应用.exe.config
+D:\C#程序设计\CSharp基础复习\10-LIst泛型集合应用\bin\Debug\10-LIst泛型集合应用.exe
+D:\C#程序设计\CSharp基础复习\10-LIst泛型集合应用\bin\Debug\10-LIst泛型集合应用.pdb
+D:\C#程序设计\CSharp基础复习\10-LIst泛型集合应用\obj\Debug\10-LIst泛型集合应用.csprojAssemblyReference.cache
+D:\C#程序设计\CSharp基础复习\10-LIst泛型集合应用\obj\Debug\10-LIst泛型集合应用.csproj.CoreCompileInputs.cache
+D:\C#程序设计\CSharp基础复习\10-LIst泛型集合应用\obj\Debug\10-LIst泛型集合应用.exe
+D:\C#程序设计\CSharp基础复习\10-LIst泛型集合应用\obj\Debug\10-LIst泛型集合应用.pdb

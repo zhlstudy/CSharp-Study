@@ -1,0 +1,6 @@
+D:\C#程序设计\CSharp基础复习\8-Try-Catch-Finally异常应用\bin\Debug\8-Try-Catch-Finally异常应用.exe.config
+D:\C#程序设计\CSharp基础复习\8-Try-Catch-Finally异常应用\bin\Debug\8-Try-Catch-Finally异常应用.exe
+D:\C#程序设计\CSharp基础复习\8-Try-Catch-Finally异常应用\bin\Debug\8-Try-Catch-Finally异常应用.pdb
+D:\C#程序设计\CSharp基础复习\8-Try-Catch-Finally异常应用\obj\Debug\8-Try-Catch-Finally异常应用.csproj.CoreCompileInputs.cache
+D:\C#程序设计\CSharp基础复习\8-Try-Catch-Finally异常应用\obj\Debug\8-Try-Catch-Finally异常应用.exe
+D:\C#程序设计\CSharp基础复习\8-Try-Catch-Finally异常应用\obj\Debug\8-Try-Catch-Finally异常应用.pdb

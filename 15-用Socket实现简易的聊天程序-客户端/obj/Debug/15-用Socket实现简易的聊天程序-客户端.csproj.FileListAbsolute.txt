@@ -1,0 +1,10 @@
+D:\C#程序设计\CSharp基础复习\15-用Socket实现简易的聊天程序-客户端\obj\Debug\15-用Socket实现简易的聊天程序-客户端.csprojAssemblyReference.cache
+D:\C#程序设计\CSharp基础复习\15-用Socket实现简易的聊天程序-客户端\obj\Debug\_15_用Socket实现简易的聊天程序_客户端.Form1.resources
+D:\C#程序设计\CSharp基础复习\15-用Socket实现简易的聊天程序-客户端\obj\Debug\_15_用Socket实现简易的聊天程序_客户端.Properties.Resources.resources
+D:\C#程序设计\CSharp基础复习\15-用Socket实现简易的聊天程序-客户端\obj\Debug\15-用Socket实现简易的聊天程序-客户端.csproj.GenerateResource.cache
+D:\C#程序设计\CSharp基础复习\15-用Socket实现简易的聊天程序-客户端\obj\Debug\15-用Socket实现简易的聊天程序-客户端.csproj.CoreCompileInputs.cache
+D:\C#程序设计\CSharp基础复习\15-用Socket实现简易的聊天程序-客户端\bin\Debug\15-用Socket实现简易的聊天程序-客户端.exe.config
+D:\C#程序设计\CSharp基础复习\15-用Socket实现简易的聊天程序-客户端\bin\Debug\15-用Socket实现简易的聊天程序-客户端.exe
+D:\C#程序设计\CSharp基础复习\15-用Socket实现简易的聊天程序-客户端\bin\Debug\15-用Socket实现简易的聊天程序-客户端.pdb
+D:\C#程序设计\CSharp基础复习\15-用Socket实现简易的聊天程序-客户端\obj\Debug\15-用Socket实现简易的聊天程序-客户端.exe
+D:\C#程序设计\CSharp基础复习\15-用Socket实现简易的聊天程序-客户端\obj\Debug\15-用Socket实现简易的聊天程序-客户端.pdb

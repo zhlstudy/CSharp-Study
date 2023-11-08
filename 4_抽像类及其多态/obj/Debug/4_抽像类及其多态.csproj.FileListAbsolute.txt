@@ -1,0 +1,7 @@
+D:\C#程序设计\CSharp基础复习\4_抽像类及其多态\bin\Debug\4_抽像类及其多态.exe.config
+D:\C#程序设计\CSharp基础复习\4_抽像类及其多态\bin\Debug\4_抽像类及其多态.exe
+D:\C#程序设计\CSharp基础复习\4_抽像类及其多态\bin\Debug\4_抽像类及其多态.pdb
+D:\C#程序设计\CSharp基础复习\4_抽像类及其多态\obj\Debug\4_抽像类及其多态.csprojAssemblyReference.cache
+D:\C#程序设计\CSharp基础复习\4_抽像类及其多态\obj\Debug\4_抽像类及其多态.csproj.CoreCompileInputs.cache
+D:\C#程序设计\CSharp基础复习\4_抽像类及其多态\obj\Debug\4_抽像类及其多态.exe
+D:\C#程序设计\CSharp基础复习\4_抽像类及其多态\obj\Debug\4_抽像类及其多态.pdb
